@@ -1,5 +1,5 @@
-# nfc-bt-demo
-Example app for using NFC (including NDEF and the Smart Card API) and Bluetooth LE in Windows 10.
+# NFC and Bluetooth Smart Demo for Windows 10
+Example app for using NFC (including NDEF and the Smart Card API) and Bluetooth Smart / Low Energy / LE in Windows 10.
 
 Used as demo in the presentation "Which new scenarios are enabled by Windows 10 for NFC, Bluetooth LE & iBeacons?" from:
 http://www.slideshare.net/andreasjakl/windows-10-nfc-bluetooth-le-beacons-100
