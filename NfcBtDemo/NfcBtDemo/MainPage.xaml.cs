@@ -110,7 +110,7 @@ namespace NfcBtDemo
 
             if (devices != null && devices.Count == 0)
             {
-                SetStatusOutput("No NFC Smart Kart Reader found in this device.");
+                SetStatusOutput("No NFC Smart Card Reader found in this device.");
                 return;
             }
 
