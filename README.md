@@ -4,5 +4,6 @@ Example app for using NFC (including NDEF and the Smart Card API) and Bluetooth 
 Used as demo in the presentation "Which new scenarios are enabled by Windows 10 for NFC, Bluetooth LE & iBeacons?" from:
 http://www.slideshare.net/andreasjakl/windows-10-nfc-bluetooth-le-beacons-100
 
-A recorded version of the session (in German) is available from:
-https://channel9.msdn.com/Series/MVP-Fusion-2015/Dev-Welche-neuen-Szenarien-ermglicht-Windows-10-fr-Bluetooth-LE-Beacons-und-NFC
+A recorded version of the session:
+English: https://www.youtube.com/watch?v=V4Ub_E2A82Q
+German: https://channel9.msdn.com/Series/MVP-Fusion-2015/Dev-Welche-neuen-Szenarien-ermglicht-Windows-10-fr-Bluetooth-LE-Beacons-und-NFC
